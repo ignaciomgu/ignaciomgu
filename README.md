@@ -29,6 +29,6 @@
 
 **Leetcode Stats:**
 
-[![Leetcode Stats](https://leetcode.card.workers.dev/ignaciomgu?theme=nord&font=baloo&extension=null&height=137&width=320)]
+![Leetcode Stats](https://leetcode.card.workers.dev/ignaciomgu?theme=nord&font=baloo&extension=null&height=137&width=320)
 
 > *Send you some ❤️ !*
